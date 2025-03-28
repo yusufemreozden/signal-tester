@@ -1,6 +1,6 @@
 # 📈 Signal Tester – EMA Crossover Backtest Tool
 
-This project allows you to **backtest a simple MA crossover strategy** on Turkish BIST stocks using real historical data from Yahoo Finance.
+This project allows you to **backtest a simple MA crossover strategy** on Turkiye BIST stocks using real historical data from Yahoo Finance.
 
 ---
 
